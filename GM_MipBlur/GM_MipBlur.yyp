@@ -1,0 +1,38 @@
+{
+  "resourceType": "GMProject",
+  "resourceVersion": "1.7",
+  "name": "GM_MipBlur",
+  "AudioGroups": [
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  ],
+  "configs": {
+    "children": [],
+    "name": "Default",
+  },
+  "defaultScriptType": 1,
+  "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"MipBlur","folderPath":"folders/MipBlur.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Demo","folderPath":"folders/Demo.yy",},
+  ],
+  "IncludedFiles": [],
+  "isEcma": false,
+  "LibraryEmitters": [],
+  "MetaData": {
+    "IDEVersion": "2023.11.1.129",
+  },
+  "resources": [
+    {"id":{"name":"shd_mipblur","path":"shaders/shd_mipblur/shd_mipblur.yy",},},
+    {"id":{"name":"spr_book","path":"sprites/spr_book/spr_book.yy",},},
+    {"id":{"name":"spr_tile","path":"sprites/spr_tile/spr_tile.yy",},},
+    {"id":{"name":"mipblur","path":"scripts/mipblur/mipblur.yy",},},
+    {"id":{"name":"obj_demo","path":"objects/obj_demo/obj_demo.yy",},},
+    {"id":{"name":"rm_demo","path":"rooms/rm_demo/rm_demo.yy",},},
+  ],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"rm_demo","path":"rooms/rm_demo/rm_demo.yy",},},
+  ],
+  "templateType": "game",
+  "TextureGroups": [
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":8,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":-1,"targets":-1,},
+  ],
+}

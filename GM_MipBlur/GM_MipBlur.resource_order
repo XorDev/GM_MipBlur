@@ -1,0 +1,12 @@
+{
+  "FolderOrderSettings": [
+    {"name":"MipBlur","order":5,"path":"folders/MipBlur.yy",},
+    {"name":"Demo","order":9,"path":"folders/Demo.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"shd_mipblur","order":1,"path":"shaders/shd_mipblur/shd_mipblur.yy",},
+    {"name":"spr_book","order":1,"path":"sprites/spr_book/spr_book.yy",},
+    {"name":"obj_demo","order":2,"path":"objects/obj_demo/obj_demo.yy",},
+    {"name":"rm_demo","order":3,"path":"rooms/rm_demo/rm_demo.yy",},
+  ],
+}
