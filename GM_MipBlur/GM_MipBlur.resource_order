@@ -1,7 +1,7 @@
 {
   "FolderOrderSettings": [
-    {"name":"MipBlur","order":5,"path":"folders/MipBlur.yy",},
     {"name":"Demo","order":9,"path":"folders/Demo.yy",},
+    {"name":"MipBlur","order":5,"path":"folders/MipBlur.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"shd_mipblur","order":1,"path":"shaders/shd_mipblur/shd_mipblur.yy",},

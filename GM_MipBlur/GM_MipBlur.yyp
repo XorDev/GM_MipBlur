@@ -11,8 +11,8 @@
   },
   "defaultScriptType": 1,
   "Folders": [
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"MipBlur","folderPath":"folders/MipBlur.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Demo","folderPath":"folders/Demo.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"MipBlur","folderPath":"folders/MipBlur.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,

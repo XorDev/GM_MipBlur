@@ -2,6 +2,8 @@
 	"MipBlur" by @XorDev
 	
 	A one-pass blur shader that takes advantage of mipmapping.
+	Written for my mipmapping tutorial:
+	https://mini.gmshaders.com/p/mipmaps
 	
 	Based on my 1-pass blur:
 	https://github.com/XorDev/1PassBlur/blob/main/1PassBlur
@@ -26,7 +28,7 @@ void main()
 	
 	//First sample offset scale
 	float scale = u_radius/sqrt(SAMPLES);
-	//Try without noise here:
+	//Starting sample point
 	vec2 point = vec2(scale,0);
 	
 	//Radius iteration variable
